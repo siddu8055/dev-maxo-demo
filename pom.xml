@@ -51,8 +51,8 @@
 	</repository>
  
 	<snapshotRepository>
-		<id>deploymentRepo</id>
-		<name>Internal Releases</name>
+		<id>deploymentSnaps</id>
+		<name>Internal Snaps</name>
 		<url>http://ec2-3-80-228-33.compute-1.amazonaws.com:8081/repository/maven-snapshots/</url>
 	</snapshotRepository>
 
